@@ -1,2 +1,2 @@
-# Loopstack AI Module
+# Loopstack Core Tools Module
 
