@@ -1,6 +1,6 @@
 import { TestingModule } from '@nestjs/testing';
 import { SwitchTarget } from '../switch-target-tool';
-import { createExecutionContext, createToolTest } from '../../../../test';
+import { createExecutionContext, createToolTest } from '@loopstack/core';
 
 describe('SwitchTarget', () => {
   let module: TestingModule;

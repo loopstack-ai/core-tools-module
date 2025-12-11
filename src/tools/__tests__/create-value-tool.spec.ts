@@ -1,6 +1,6 @@
 import { TestingModule } from '@nestjs/testing';
 import { CreateValue } from '../create-value-tool';
-import { createToolTest } from '../../../../test';
+import { createToolTest } from '@loopstack/core';
 
 describe('CreateValue', () => {
   let module: TestingModule;
