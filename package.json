@@ -2,7 +2,7 @@
   "name": "@loopstack/core-tools-module",
   "displayName": "Loopstack Core Tools Module",
   "description": "A collection of core tools for basic workflow functionality",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "author": {
     "name": "Jakob Klippel",
     "url": "https://www.linkedin.com/in/jakob-klippel/"
@@ -29,8 +29,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@loopstack/common": "^0.15.0",
-    "@loopstack/core": "^0.15.0",
+    "@loopstack/common": "^0.15.1",
+    "@loopstack/core": "^0.15.3",
     "zod": "^3.24.1"
   },
   "devDependencies": {
